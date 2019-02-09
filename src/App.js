@@ -9,7 +9,7 @@ class App extends Component {
         <h1> Welcome to Emir's portfolio.</h1>
         <div>
           <a href="https://github.com/Crashpole">
-            <img src={github} className="App-logo" />
+            <img alt="Github profile" src={github} className="App-logo" />
           </a>
         </div>
       </div>
